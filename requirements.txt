@@ -19,5 +19,5 @@
 # see http://pyqt.sourceforge.net/Docs/PyQt5/installation.html#building-and-installing-from-source
 
 pyqt5
--e git+https://github.com/EHRI/rspub-core@master#egg=rspub-core
+-e git+https://github.com/cegesoma/rspub-core@master#egg=rspub-core
 -e .
